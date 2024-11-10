@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ae5beab1-df91-4e11-8974-ba420da6f4ee" alt="image">
 </p>
 
-This is the Piscine Reloaded project 42 Berlin  (42 Network).
+<h2>This is the Piscine Reloaded project 42 Berlin (42 Network)</h2>
 
 Review the basics with a set of well-picked assignments from the selection Piscine.
 
