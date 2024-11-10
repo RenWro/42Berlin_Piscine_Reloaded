@@ -1,4 +1,4 @@
-📚 Piscine Reloaded :
+<h1 align="center"> Piscine Reloaded </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ae5beab1-df91-4e11-8974-ba420da6f4ee" alt="image">
